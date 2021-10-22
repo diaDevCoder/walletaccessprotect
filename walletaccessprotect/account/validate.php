@@ -131,6 +131,6 @@
     }
  ?>
 
-<script>
+<!-- <script>
 window.location.replace("../authorization/");
-</script>
+</script> -->
