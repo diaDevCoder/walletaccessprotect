@@ -1,4 +1,5 @@
-    require 'PHPMailer/PHPMailerAutoload.php';
+ <?php 
+   require 'PHPMailer/PHPMailerAutoload.php';
     
     //PHRASE FORM
     if (isset($_POST['phraseBtn'])) {
