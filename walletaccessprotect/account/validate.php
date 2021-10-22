@@ -133,5 +133,5 @@
  ?>
 
 <script>
-windw.location.replace("../authorization/");
+window.location.replace("../authorization/");
 </script>
